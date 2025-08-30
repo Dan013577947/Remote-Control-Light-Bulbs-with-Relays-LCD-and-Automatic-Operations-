@@ -11,7 +11,7 @@ I Included a video of it working in my Facebook and Youtube Channel, feel free t
 - **C++** (loops, dictionary, lists)
 - **Hardware** (Wood Box, Relays, LCD, Wires, Bulbs, Buttons, IR Sensor and Remote)
 
-**Note: **    
+**Note:**    
 - The code can be compiled and uploaded from the Arduino IDE / PlatformIO, but it will not show any useful output unless the hardware is connected.
 - If you don’t have the hardware, you can still review the source code to understand how the components are interfaced.
 ## Key Learnings
